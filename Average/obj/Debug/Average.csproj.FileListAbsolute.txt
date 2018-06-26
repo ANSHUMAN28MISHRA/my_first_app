@@ -1,0 +1,6 @@
+c:\users\pintu\documents\visual studio 2015\Projects\Average\Average\bin\Debug\Average.exe.config
+c:\users\pintu\documents\visual studio 2015\Projects\Average\Average\bin\Debug\Average.exe
+c:\users\pintu\documents\visual studio 2015\Projects\Average\Average\bin\Debug\Average.pdb
+c:\users\pintu\documents\visual studio 2015\Projects\Average\Average\obj\Debug\Average.csprojResolveAssemblyReference.cache
+c:\users\pintu\documents\visual studio 2015\Projects\Average\Average\obj\Debug\Average.exe
+c:\users\pintu\documents\visual studio 2015\Projects\Average\Average\obj\Debug\Average.pdb
